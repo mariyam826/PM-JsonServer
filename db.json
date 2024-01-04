@@ -1,0 +1,98 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Avatar",
+      "url": "https://lumiere-a.akamaihd.net/v1/images/avatar_800x1200_208c9665.jpeg",
+      "link": "https://www.youtube.com/embed/d9MyW72ELq0"
+    },
+    {
+      "id": "2",
+      "caption": "The Shawshank Redemption",
+      "url": "https://ae01.alicdn.com/kf/HTB1X2n0QNTpK1RjSZR0q6zEwXXaL.jpg_640x640Q90.jpg_.webp",
+      "link": "https://www.youtube.com/embed/JAmspaaSNzE"
+    },
+    {
+      "id": "3",
+      "caption": "Shutter Island",
+      "url": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71nShdGAJGS._AC_UF1000,1000_QL80_.jpg",
+      "link": "https://www.youtube.com/embed/Z_0TQHoV_2I"
+    },
+    {
+      "id": "4",
+      "caption": "Inception",
+      "url": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71thFiIUSpL._AC_UF1000,1000_QL80_.jpg",
+      "link": "https://www.youtube.com/embed/XQPy88-E2zo"
+    },
+    {
+      "id": "5",
+      "caption": "Fight Club",
+      "url": "https://rukminim1.flixcart.com/image/850/1000/kmxsakw0/poster/x/y/t/large-fight-club-movie-posters-fight-club-hd-poster-18-fight-original-imagfq86erwn4ug3.jpeg?q=90",
+      "link": "https://www.youtube.com/embed/dC1yHLp9bWA"
+    },
+    {
+      "id": "6",
+      "caption": "Split",
+      "url": "https://i.pinimg.com/originals/90/11/06/9011069d346e25b348ea4c5c79a0ab5c.jpg",
+      "link": "https://www.youtube.com/embed/84TouqfIsiI"
+    },
+    {
+      "id": "7",
+      "caption": "Parasite",
+      "url": "https://posterspy.com/wp-content/uploads/2020/02/A4-1-4.png",
+      "link": "https://www.youtube.com/embed/SWSDQfJQhUg"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Avatar",
+      "link": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "timeStamp": "01/03/2024, 06:50:47 PM",
+      "id": 1
+    },
+    {
+      "caption": "Shutter Island",
+      "link": "https://www.youtube.com/embed/Z_0TQHoV_2I",
+      "timeStamp": "01/03/2024, 06:50:59 PM",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Trailer",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Avatar",
+          "url": "https://lumiere-a.akamaihd.net/v1/images/avatar_800x1200_208c9665.jpeg",
+          "link": "https://www.youtube.com/embed/d9MyW72ELq0"
+        },
+        {
+          "id": "7",
+          "caption": "Parasite",
+          "url": "https://posterspy.com/wp-content/uploads/2020/02/A4-1-4.png",
+          "link": "https://www.youtube.com/embed/SWSDQfJQhUg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Scenes",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Shutter Island",
+          "url": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71nShdGAJGS._AC_UF1000,1000_QL80_.jpg",
+          "link": "https://www.youtube.com/embed/Z_0TQHoV_2I"
+        },
+        {
+          "id": "4",
+          "caption": "Inception",
+          "url": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71thFiIUSpL._AC_UF1000,1000_QL80_.jpg",
+          "link": "https://www.youtube.com/embed/XQPy88-E2zo"
+        }
+      ]
+    }
+  ]
+}
